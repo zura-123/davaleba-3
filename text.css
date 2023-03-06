@@ -1,0 +1,21 @@
+.container{
+    Width:450px;
+Height:700px;
+background-color:#FAFAFA;
+margin-top: 50px;
+border: 1px solid #DCDCDC;
+}
+.photo{
+    width: 159.24px;
+height: 146.57px;
+margin-top: 100px;
+}
+p{
+    font-size: 30px;
+    font-family: normal;
+}
+.text-1{
+    font-size: 19px;
+    text-align:center;
+    padding: 15px;
+}
